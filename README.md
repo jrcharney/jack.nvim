@@ -1,6 +1,6 @@
 # JACK.nvim
 
-Jason's Alternative Configuration to Kickstart.nvim
+**Jason's Alternative Configuration to Kickstart.nvim**
 
 A succinct alternative to [Kickstart.nvim](https://github.com/nvim-lua/kickstart.nvim) in that you get up and go!
 
@@ -10,11 +10,11 @@ My knowledge of [Lua](https://www.lua.org/) is very basic, and while I know ther
 
 For example, in this configuration, I wanted to have the best of everything.
 
-- NeoVim's textual interface with the file tree (via nvim-tree) and tabs and buffers (via bufferline.nvim), and status line (via lualine.nvim)
-- Microsoft VS Code's ease of use and UI/UX experience and keybindings (Ctrl+P, Ctrl+B, etc.)
+- NeoVim's textual interface with the file tree (via `nvim-tree`) and tabs and buffers (via `bufferline.nvim`), and status line (via `lualine.nvim`)
+- Microsoft VS Code's ease of use and UI/UX experience and keybindings (`Ctrl+P`, `Ctrl+B`, etc.)
 - Kickstart.nvim support for LSP, Autocomplete, Treesitter Syntax Highlighting, and eventually interface supports.
 
-The only difference is that the inital init.lua file is 169 lines long versus 900+ lines that Kickstart.nvim has.
+The only difference is that the initial `init.lua` file is under 200 lines long versus 900+ lines that Kickstart.nvim has.
 
 Also, there's been a shift to use NeoVim more than Vim. Like a lot of the more modern themes (e.g. Synthweave) are written in Lua.
 
@@ -26,7 +26,7 @@ Look at how the calculator helped us be better at producing mathematical figures
 
 Technology should be used to assist us, not supplant us! Some of us need that assistance for accessibility.
 
-The world still needs accountants. If you are bringing in a bunch of computer hackers to do a financial audit, that should be a red flag. (If you are an American and have been paying attention to the news lately about how some billionaire technofascist is trying to make the American government be more business-like (which corporatization of goverment is fascism), you know what I'm talking about.)
+The world still needs accountants. If you are bringing in a bunch of computer hackers to do a financial audit, that should be a red flag. (If you are an American and have been paying attention to the news lately about how some billionaire technofascist is trying to make the American government be more business-like (which corporatization of government is fascism), you know what I'm talking about.)
 
 We must use A.I. as a **partner** in development, not as our replacement.  A.I. will always need human guidance to do the right thing. There is no cost-saving replacing humans with some good coding skills with A.I. that has mediocre coding skills when left to its own devices.  It's like trying to let a lawnmower cut the grass without someone to make sure it doesn't run over anything.  You could write an A.I. for a A.I. lawnmower, but it will be more cost effective just to mow the lawn yourself or at very least hire someone to do it for you.
 
